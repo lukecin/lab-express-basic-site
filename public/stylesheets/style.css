@@ -1,0 +1,35 @@
+* {
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 40px;
+    text-align: justify;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 60vh;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    grid-row: auto;
+    text-align: center;
+}
+
+li {
+    margin: 20px;
+}
+
+nav {
+    display: flex;
+    text-align: center;
+}
